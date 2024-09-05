@@ -1,0 +1,48 @@
+body{
+    
+}
+ul{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 30px;
+    margin-left: 800px;
+}
+nav{
+    display: flex;
+    margin-left: 10%;
+    margin-top: 30px;
+}
+.button{
+    margin-left: 100px;
+    border-radius: 30%;
+}
+.main{
+    display: flex;
+    margin-top: 30px;
+}
+.left{
+    margin-left: 200px;
+    margin-top: 180px;
+}
+.right{
+   margin-right: 300px;
+   margin-top: 50px;
+}
+.logo{
+    margin-left: 100px;
+}
+.third{
+    display: flex;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+.service{
+    color: black;
+    background-color: greenyellow;
+    padding: 10px, 0px;
+}
+.text{
+  
+    margin-top: 30px;
+}
